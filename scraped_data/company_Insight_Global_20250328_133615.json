@@ -1,0 +1,117 @@
+{
+  "JobDetails": {
+    "companyInfo": {
+      "portal": "LinkedIn",
+      "name": "Insight Global",
+      "offices": [
+        {
+          "location": {
+            "area": "",
+            "city": "Atlanta",
+            "state": "Georgia",
+            "country": "Georgia"
+          }
+        }
+      ],
+      "industry": "Staffing and Recruiting",
+      "description": {
+        "text": "Insight Global is an international professional services and staffing company specializing in delivering talent and technical solutions to Fortune 1000 companies across the IT, Non-IT, Healthcare, and Engineering industries. Fueled by staffing and talent experts, Evergreen, our professional services brand, brings technical advisors and culture consultants to help customers tackle their biggest challenges. With over 70 locations across North America, Europe, and Asia, and global staffing capabilities in 50+ countries, our teams of tech-enabled recruiters are dedicated to finding the right talent and technical solutions to help our customers thrive. At our core, we are dedicated to empowering people to do great things. That’s why we’re passionate about developing our people personally, professionally, and financially so they can be the light to the world around them. To find out more, visit www.insightglobal.com",
+        "html": "Insight Global is an international professional services and staffing company specializing in delivering talent and technical solutions to Fortune 1000 companies across the IT, Non-IT, Healthcare, and Engineering industries. Fueled by staffing and talent experts, Evergreen, our professional services brand, brings technical advisors and culture consultants to help customers tackle their biggest challenges. With over 70 locations across North America, Europe, and Asia, and global staffing capabilities in 50+ countries, our teams of tech-enabled recruiters are dedicated to finding the right talent and technical solutions to help our customers thrive. At our core, we are dedicated to empowering people to do great things. That’s why we’re passionate about developing our people personally, professionally, and financially so they can be the light to the world around them. To find out more, visit www.insightglobal.com",
+        "vision": ""
+      },
+      "url": "https://www.linkedin.com/company/insight-global/",
+      "website": "https://www.insightglobal.com/",
+      "phone": "",
+      "logo": "",
+      "rating": null,
+      "reviewsCount": null,
+      "openings": null,
+      "commitments": {
+        "_ids": [],
+        "names": []
+      },
+      "leadership": [
+        {
+          "name": "LinkedIn Member",
+          "position": "QA Director, India for Evergreen Professional Services, An Insight Global Division",
+          "url": "",
+          "photo_url": "https://media.licdn.com/dms/image/v2/C4D03AQEMuOR2iQdjsQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516808424073?e=1748476800&v=beta&t=iDeggQ6FVf5gmcpBDLcHX0rLmIBcYHm0CyeRym7D5lw"
+        },
+        {
+          "name": "LinkedIn Member",
+          "position": "Maintenance and Support Communications Specialist at Microsoft Azure",
+          "url": "",
+          "photo_url": "https://media.licdn.com/dms/image/v2/C5603AQHRTz4JKI49gw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1592812738131?e=1748476800&v=beta&t=2pOXjw2H9ElYpSvZo1zoX7TDvSqPFPlWEVbwCuIY0L4"
+        },
+        {
+          "name": "V Sarath Kumar",
+          "position": "Ex-Cognizant || 13 Years Experience || Talent Acquisition || Talent Management || Delivery || Strategic Hiring || Executive Hiring ||",
+          "url": "https://www.linkedin.com/in/sarathkumarv",
+          "photo_url": "https://media.licdn.com/dms/image/v2/D5603AQE1iZK71LhF0A/profile-displayphoto-shrink_100_100/B56ZXNASznGUAU-/0/1742901161633?e=1748476800&v=beta&t=i0WVmLYlwGR3KGwIu8zPPkEPv4XiK_O01OpEWeHbbVc"
+        },
+        {
+          "name": "LinkedIn Member",
+          "position": "Mac Application packager",
+          "url": "",
+          "photo_url": "https://media.licdn.com/dms/image/v2/D5603AQFm_UMg32XSXQ/profile-displayphoto-shrink_100_100/B56ZSZmp1PHoAY-/0/1737743835140?e=1748476800&v=beta&t=LfvyybdZP9bHw2aoQ35t8HD1xmMoRxzySueGhALmMuw"
+        }
+      ],
+      "companyInsight": {
+        "financialInsight": {}
+      },
+      "companyType": "",
+      "showcasePages": [],
+      "affiliatedCompanies": [],
+      "foundedYear": "2001",
+      "companySize": "1,001-5,000 employees",
+      "headcount": null,
+      "isFeatured": false
+    }
+  },
+  "CompanyData": {
+    "rating": [],
+    "reviews": []
+  },
+  "raw_data": {
+    "name": "Insight Global",
+    "about_us": "Insight Global is an international professional services and staffing company specializing in delivering talent and technical solutions to Fortune 1000 companies across the IT, Non-IT, Healthcare, and Engineering industries. Fueled by staffing and talent experts, Evergreen, our professional services brand, brings technical advisors and culture consultants to help customers tackle their biggest challenges. With over 70 locations across North America, Europe, and Asia, and global staffing capabilities in 50+ countries, our teams of tech-enabled recruiters are dedicated to finding the right talent and technical solutions to help our customers thrive. At our core, we are dedicated to empowering people to do great things. That’s why we’re passionate about developing our people personally, professionally, and financially so they can be the light to the world around them. To find out more, visit www.insightglobal.com",
+    "website": "https://www.insightglobal.com/",
+    "phone": "",
+    "headquarters": "Atlanta, Georgia",
+    "founded": "2001",
+    "industry": "Staffing and Recruiting",
+    "company_type": "",
+    "company_size": "1,001-5,000 employees",
+    "specialties": "",
+    "showcase_pages": [],
+    "affiliated_companies": [],
+    "employees": [
+      {
+        "name": "LinkedIn Member",
+        "position": "Software Engineer",
+        "url": "",
+        "photo_url": "https://media.licdn.com/dms/image/v2/D5635AQFZPbvmPqJ_Jg/profile-framedphoto-shrink_100_100/profile-framedphoto-shrink_100_100/0/1732790893663?e=1743757200&v=beta&t=nXWl-I0YhBb8OhAREvALsrW4JzQiMU8vwaxOd-_9GPk"
+      },
+      {
+        "name": "LinkedIn Member",
+        "position": "Office Associate at Insight Global",
+        "url": "",
+        "photo_url": "https://media.licdn.com/dms/image/v2/D5635AQGXW0U7XhrOLA/profile-framedphoto-shrink_100_100/profile-framedphoto-shrink_100_100/0/1660002772504?e=1743757200&v=beta&t=4fwrDiYTGe9QdSjBzjeVNbqK0rUJBGHTNB4eHt9ixZM"
+      },
+      {
+        "name": "LinkedIn Member",
+        "position": "HR Operations | Building and Championing Employee Experience.",
+        "url": "",
+        "photo_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      },
+      {
+        "name": "LinkedIn Member",
+        "position": "Technical Recruiter at Insight Global",
+        "url": "",
+        "photo_url": "https://media.licdn.com/dms/image/v2/D4D03AQEMRoWyabr98w/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1727974303496?e=1748476800&v=beta&t=MFCxedDLSlCI7QCuzkRkoC5llhr4oIHgKulN-FwVSpA"
+      }
+    ],
+    "headcount": null,
+    "linkedin_url": "https://www.linkedin.com/company/insight-global/"
+  }
+}

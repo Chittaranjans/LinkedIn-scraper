@@ -1,0 +1,117 @@
+{
+  "JobDetails": {
+    "companyInfo": {
+      "portal": "LinkedIn",
+      "name": "Microsoft",
+      "offices": [
+        {
+          "location": {
+            "area": "",
+            "city": "Redmond",
+            "state": "Washington",
+            "country": "Washington"
+          }
+        }
+      ],
+      "industry": "Software Development",
+      "description": {
+        "text": "Every company has a mission. What's ours? To empower every person and every organization to achieve more. We believe technology can and should be a force for good and that meaningful innovation contributes to a brighter world in the future and today. Our culture doesn’t just encourage curiosity; it embraces it. Each day we make progress together by showing up as our authentic selves. We show up with a learn-it-all mentality. We show up cheering on others, knowing their success doesn't diminish our own. We show up every day open to learning our own biases, changing our behavior, and inviting in differences. Because impact matters. \n\nMicrosoft operates in 190 countries and is made up of approximately 228,000 passionate employees worldwide.",
+        "html": "Every company has a mission. What's ours? To empower every person and every organization to achieve more. We believe technology can and should be a force for good and that meaningful innovation contributes to a brighter world in the future and today. Our culture doesn’t just encourage curiosity; it embraces it. Each day we make progress together by showing up as our authentic selves. We show up with a learn-it-all mentality. We show up cheering on others, knowing their success doesn't diminish our own. We show up every day open to learning our own biases, changing our behavior, and inviting in differences. Because impact matters. \n\nMicrosoft operates in 190 countries and is made up of approximately 228,000 passionate employees worldwide.",
+        "vision": ""
+      },
+      "url": "https://www.linkedin.com/company/microsoft/",
+      "website": "http://news.microsoft.com/",
+      "phone": "",
+      "logo": "",
+      "rating": null,
+      "reviewsCount": null,
+      "openings": null,
+      "commitments": {
+        "_ids": [],
+        "names": []
+      },
+      "leadership": [
+        {
+          "name": "LinkedIn Member",
+          "position": "SRM B.Tech CSE-AIML’28 | President @CMAC | Chief Executive Officer @Yudle | Technical Team Member @GeeksForGeeks | NASA Citizen Scientist | Young Researcher | ML Enthusiast | Mathematician",
+          "url": "",
+          "photo_url": "https://media.licdn.com/dms/image/v2/D4D03AQHlYozoiG5HkA/profile-displayphoto-shrink_100_100/B4DZUFMIjSHkAY-/0/1739548823022?e=1748476800&v=beta&t=fS-hsbHkysdjiXXjsTWcfWDlDBHKDWm57JaSqkopZgU"
+        },
+        {
+          "name": "LinkedIn Member",
+          "position": "Software Engineer 2 Microsoft",
+          "url": "",
+          "photo_url": "https://media.licdn.com/dms/image/v2/D5603AQG9UXN18LUZLw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1697466764534?e=1748476800&v=beta&t=aWM0EbdqvCNoXq318_fS8c4ODyVMwPtpoyonv9vWJNA"
+        },
+        {
+          "name": "LinkedIn Member",
+          "position": "Executive",
+          "url": "",
+          "photo_url": "https://media.licdn.com/dms/image/v2/D4D35AQGv8MEE7NFe-Q/profile-framedphoto-shrink_100_100/profile-framedphoto-shrink_100_100/0/1738331510386?e=1743764400&v=beta&t=UtvXGmsaHWGSXomWqZf757_wKU2iK40A_juacDGnymQ"
+        },
+        {
+          "name": "Vidushi Agarwal",
+          "position": "IGDTUW'26 | Upcoming SWE Intern @Rippling | SIH'24 Winner | Winner1 @ITTCP'24 | NXP WIT Scholar'23 | Beta @MLSA | Co-founder & President @TechNeeds IGDTUW | Mentoring 300+ students | Full Stack Developer |",
+          "url": "https://www.linkedin.com/in/vidushi-agarwal-a95885256",
+          "photo_url": "https://media.licdn.com/dms/image/v2/D4D03AQGI12_Y7NCHVg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1686988918893?e=1748476800&v=beta&t=5vbUDUaJdL7GeuFfXKSVU0CMdhpH3LmEDupUh1uat0o"
+        }
+      ],
+      "companyInsight": {
+        "financialInsight": {}
+      },
+      "companyType": "",
+      "showcasePages": [],
+      "affiliatedCompanies": [],
+      "foundedYear": "",
+      "companySize": "10,001+ employees",
+      "headcount": null,
+      "isFeatured": false
+    }
+  },
+  "CompanyData": {
+    "rating": [],
+    "reviews": []
+  },
+  "raw_data": {
+    "name": "Microsoft",
+    "about_us": "Every company has a mission. What's ours? To empower every person and every organization to achieve more. We believe technology can and should be a force for good and that meaningful innovation contributes to a brighter world in the future and today. Our culture doesn’t just encourage curiosity; it embraces it. Each day we make progress together by showing up as our authentic selves. We show up with a learn-it-all mentality. We show up cheering on others, knowing their success doesn't diminish our own. We show up every day open to learning our own biases, changing our behavior, and inviting in differences. Because impact matters. \n\nMicrosoft operates in 190 countries and is made up of approximately 228,000 passionate employees worldwide.",
+    "website": "http://news.microsoft.com/",
+    "phone": "",
+    "headquarters": "Redmond, Washington",
+    "founded": "",
+    "industry": "Software Development",
+    "company_type": "",
+    "company_size": "10,001+ employees",
+    "specialties": "",
+    "showcase_pages": [],
+    "affiliated_companies": [],
+    "employees": [
+      {
+        "name": "LinkedIn Member",
+        "position": "Software Engineer 2 @ Microsoft",
+        "url": "",
+        "photo_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      },
+      {
+        "name": "LinkedIn Member",
+        "position": "Principal Software Engineering Manager at Microsoft",
+        "url": "",
+        "photo_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      },
+      {
+        "name": "LinkedIn Member",
+        "position": "Software Engineer 2 at Microsoft R&D Pvt Lt",
+        "url": "",
+        "photo_url": "https://media.licdn.com/dms/image/v2/D5603AQF3zfXG7u3y7w/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1719071288644?e=1748476800&v=beta&t=mNp4QtxJ4SApQ-lp24NGSdAVEug4O_hOzF7MKICGggk"
+      },
+      {
+        "name": "LinkedIn Member",
+        "position": "Senior Software Engineer at Microsoft",
+        "url": "",
+        "photo_url": "https://media.licdn.com/dms/image/v2/C5103AQG-8mC_wArkfA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516977061375?e=1748476800&v=beta&t=n1qb9lAkiaKqH8Bo7T3px_DVFkhhBV6iVwJEbzXtWhk"
+      }
+    ],
+    "headcount": null,
+    "linkedin_url": "https://www.linkedin.com/company/microsoft/"
+  }
+}
