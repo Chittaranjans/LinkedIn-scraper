@@ -4,6 +4,35 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 
+
+
+
+
+
+
+
+
+
+
+
+## NOT USED 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 def __prompt_email_password():
   u = input("Email: ")
   p = getpass.getpass(prompt="Password: ")

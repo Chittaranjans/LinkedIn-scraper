@@ -11,6 +11,16 @@ import time
 import os
 import json
 
+
+
+
+
+
+# NOT USED(NOT WORKING)
+
+
+
+
 AD_BANNER_CLASSNAME = ('ad-banner-container', '__ad')
 
 def getchildren(elem):

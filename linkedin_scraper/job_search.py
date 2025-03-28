@@ -13,6 +13,15 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 
 
+
+
+
+# NOT USED
+
+
+
+
+
 class JobSearch(Scraper):
     AREAS = ["recommended_jobs", None, "still_hiring", "more_jobs"]
 

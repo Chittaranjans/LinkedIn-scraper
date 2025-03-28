@@ -7,6 +7,20 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 
+
+
+
+
+
+# NOT USED
+
+
+
+
+
+
+
+
 class Job(Scraper):
 
     def __init__(
