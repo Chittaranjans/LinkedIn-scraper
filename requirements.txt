@@ -1,0 +1,12 @@
+selenium
+requests
+lxml
+python-dotenv
+webdriver-manager
+urllib3
+fastapi
+uvicorn
+pydantic
+motor
+pymongo
+pydantic-settings
