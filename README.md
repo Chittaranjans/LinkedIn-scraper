@@ -37,7 +37,7 @@ linkedin_scraper/
 git clone https://github.com/yourusername/linkedin_scraper.git
 cd linkedin_scraper
 
-# Create virtual environment
+# Create virtual environment  (Use Make-commands /Makefile)
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
