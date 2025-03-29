@@ -13,7 +13,7 @@ scrape.py
 creds.json
 venv
 *.zip
-
+linkedin_scraper_main.py
 *.png
 *.jpg   
 *.log
