@@ -1,6 +1,6 @@
 # LinkedIn Data Acquisition System
 1. Overview
-```
+``` bash 
 A comprehensive solution for extracting structured professional data from LinkedIn at scale. This system enables automated collection of job listings, company profiles, and professional data while implementing robust anti-detection measures and session management.
 # CHECK SAMAPLE DATASCRAPES IN /scraped_data . 
 ```
@@ -27,8 +27,9 @@ linkedin_scraper/
 ├── linkedin_scraper/         # Core scraping logic
 ├── dataformatter/            # Data processing and formatting
 ├── create_cookies.py         # Authentication cookie generator
-├── main.py                   # Basic scraper implementation
-├── demo.py                   # Advanced scraper with proxy support
+├── main.py                   # Basic scraper implementation (Direct Run)
+├── scrape_jobs.py            # Only Jobs scraper implementation (Direct Run)
+├── demo.py                   # Advanced scraper with proxy support (Direct Run)
 └── README.md                 # This documentation file
 ```
 ### Installation
@@ -42,6 +43,12 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
+
+#Cookies Crate
+python create_cookies.py 
+
+# Server Start 
+uvicron app.main:app --reload
 
 # Set up environment variables
 cp .env.example .env
@@ -113,10 +120,10 @@ USE_PROXIES=true
 PROXY_LIST_PATH=proxies.txt
 COOKIE_PATH=cookies/linkedin_cookies.pkl
 LOG_LEVEL=INFO
+DB_URL = ****
 ```
-###  Disclaimer
+### Contribution
+``` bash
+Contributions are welcome! Please feel free to submit a Pull Request.
 ```
-This tool is for educational purposes only. Scraping LinkedIn may violate their Terms of Service. Use responsibly and at your own risk.
-```
-
 
