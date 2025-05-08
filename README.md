@@ -1,7 +1,8 @@
 # LinkedIn Data Acquisition System
 1. Overview
 ``` bash 
-A comprehensive solution for extracting structured professional data from LinkedIn at scale. This system enables automated collection of job listings, company profiles, and professional data while implementing robust anti-detection measures and session management.
+-A comprehensive solution for extracting structured professional data from LinkedIn at scale.
+-This system enables automated collection of job listings, company profiles, and professional data while implementing robust anti-detection measures and session management.
 # CHECK SAMAPLE DATASCRAPES IN /scraped_data . 
 ```
 2. Features
@@ -34,7 +35,7 @@ linkedin_scraper/
 ```
 ### Installation
 ```bash
-git clone https://github.com/yourusername/linkedin_scraper.git
+git clone https://github.com/chittaranjans/linkedin_scraper.git
 cd linkedin_scraper
 
 # Create virtual environment  (Use Make-commands /Makefile)
